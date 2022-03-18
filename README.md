@@ -1,5 +1,4 @@
-# Eduardo Procópio Gomez
-Currently for hire.
+# <a href="https://eduardo.ix.tc">Eduardo Procopio Gomez</a>
 
 <!--![Eduardo's github stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=EduApps-CDG&style=--header-bg-color:%23333333;)-->
 ![Eduardo's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=EduApps-CDG&show-other-skills=true&bg=%23333333)

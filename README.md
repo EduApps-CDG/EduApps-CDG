@@ -1,5 +1,5 @@
 
-# <a href="https://eduardo.ix.tc">Eduardo Procopio Gomez</a><img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg">
+# <a href="https://eduardo.ix.tc">Eduardo Procopio Gomez</a>[<img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg">](https://ko-fi.com/eduapps)
 Heya! My name is Eduardo (but you can call me Edward if it's hard to speak). I'm looking for contribute to some Open Source projects.
 
 ## Knowledge

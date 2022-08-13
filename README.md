@@ -1,8 +1,11 @@
 # <a href="https://eduardo.ix.tc">Eduardo Procopio Gomez</a>[<img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg">](https://ko-fi.com/eduapps)
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api?username=EduApps-CDG&show_icons=true&theme=github_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduApps-CDG&show_icons=true&theme=github_dark) <div align="right">
-Heya! My name is Eduardo (but you can call me Edward if it's hard to speak). I'm studying Software Engineering at Univates's campus. I'm looking for contribute to some Open Source projects.
 </div>
+
+Heya! My name is Eduardo (but you can call me Edward if it's hard to speak). I'm studying Software Engineering at Univates's campus. I'm looking for contribute to some Open Source projects.
 
 ## Knowledge
 <div align="center">

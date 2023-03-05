@@ -1,33 +1,35 @@
-# <a href="https://eduardo.ix.tc">Eduardo Procopio Gomez</a>[<img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg">](https://ko-fi.com/eduapps)
-<div align="center">
- 
-![](https://github-readme-stats.vercel.app/api?username=EduApps-CDG&show_icons=true&theme=github_dark)
+# Hi there, I'm Eduardo! 👋 [<img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg">](https://ko-fi.com/eduapps)
+<p align="center">
+ <b>
+  <a href="https://eduardo.ix.tc">Visit my website</a> |
+  <a href="https://www.linkedin.com/in/eduapps/">Connect on LinkedIn</a>
+ </b>
+</p>
 
-</div>
+<img src="https://raw.githubusercontent.com/EduApps-CDG/EduApps-CDG/main/img1.png" align="right" width="400">
 
-Heya! My name is Eduardo (but you can call me Edward if it's hard to speak). I'm studying Software Engineering at Univates's campus. I'm looking for contribute to some Open Source projects.
+I'm a passionate software engineering student at Univates campus with a love for open source projects. I'm always looking for new ways to contribute to the community and make a positive impact. My expertise lies in PHP, TypeScript, and Linux, and I'm always eager to learn more. With a focus on empowering Linux with software and creating innovative solutions, I'm driven to make a difference.
 
-## Knowledge
-<div align="center">
+If you're looking for a motivated and talented individual to collaborate on a project, feel free to reach out to me! You can connect with me on LinkedIn, or visit my website to learn more about my work. And if you like what I do and want to support my efforts, you can buy me a coffee on Ko-fi. Let's work together to make the world a better place, one line of code at a time.
 
-### Good knowledge
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
-<br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows">
+## About Me
+I'm a lifelong learner and love tackling new challenges. I've gained experience working with several technologies, including:
 
-### Medium knowledge
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
-<br>
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&amp;logo=macos&amp;logoColor=F0F0F0" alt="macOS"></td>
+- **PHP**: I'm experienced with PHP development and technologies like Composer and Zend/Laminas
+-  **JavaScript/TypeScript**: I have a strong understanding of web development and have worked with both front-end and back-end technologies such as React, Node.js, and Express.
+-  **Java**: I have skills in developing Java applications, both desktop and mobile.
+-  **C/C++**: I'm still learning C/C++ but I already enjoy working on low-level programming projects.
+-  **Linux**: I'm comfortable using and working with Linux-based systems, and I'm always looking for ways to improve Linux's accessibility through software development.
 
-### Want to know
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go">
-<img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift">
+In my free time, I love contributing to open-source projects and exploring new technologies. When I'm not coding, you can usually find me playing guitar, playing video games, or spending time with friends and family.
+
+## Get in Touch
+If you're interested in collaborating or want to learn more about me, please don't hesitate to reach out! You can connect with me via:
+
+- [My Website](https://eduardo.ix.tc)
+- [LinkedIn](https://www.linkedin.com/in/eduardo-procopio-gomez/)
+- [GitHub](https://github.com/EduApps-CDG)
+
+I'm always open to new opportunities and excited to meet new people in the tech community!
+
+**But please note that I am not interested in any requests that involve creating malware or any other unethical or illegal activities.**

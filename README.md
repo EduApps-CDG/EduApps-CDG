@@ -27,8 +27,7 @@ In my free time, I love contributing to open-source projects and exploring new t
 If you're interested in collaborating or want to learn more about me, please don't hesitate to reach out! You can connect with me via:
 
 - [My Website](https://eduardo.ix.tc)
-- [LinkedIn](https://www.linkedin.com/in/eduardo-procopio-gomez/)
-- [GitHub](https://github.com/EduApps-CDG)
+- [LinkedIn](https://www.linkedin.com/in/eduapps/)
 
 I'm always open to new opportunities and excited to meet new people in the tech community!
 

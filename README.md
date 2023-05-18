@@ -1,34 +1,44 @@
-# Hi there, I'm Eduardo! 👋 [<img align="right" src="https://ko-fi.com/img/githubbutton_sm.svg">](https://ko-fi.com/eduapps)
-<p align="center">
- <b>
-  <a href="https://eduardo.ix.tc">Visit my website</a> |
-  <a href="https://www.linkedin.com/in/eduapps/">Connect on LinkedIn</a>
- </b>
-</p>
+# Hi there, I'm Eduardo! 👋
 
 <img src="https://raw.githubusercontent.com/EduApps-CDG/EduApps-CDG/main/img1.png" align="right" width="400">
 
-I'm a passionate software engineering student at Univates campus with a love for open source projects. I'm always looking for new ways to contribute to the community and make a positive impact. My expertise lies in PHP, TypeScript, and Linux, and I'm always eager to learn more. With a focus on empowering Linux with software and creating innovative solutions, I'm driven to make a difference.
+I'm a passionate software engineering student with expertise in PHP, TypeScript, and Linux. I'm dedicated to open source projects and making a positive impact in the tech community. Let's collaborate on exciting projects and make a difference together!
 
-If you're looking for a motivated and talented individual to collaborate on a project, feel free to reach out to me! You can connect with me on LinkedIn, or visit my website to learn more about my work. And if you like what I do and want to support my efforts, you can buy me a coffee on Ko-fi. Let's work together to make the world a better place, one line of code at a time.
+Do you need a website or something to be made? **[Reach me out](https://eduardo.ix.tc)!** 💡
 
-## About Me
-I'm a lifelong learner and love tackling new challenges. I've gained experience working with several technologies, including:
+---
+<div>
+🔭 <strong>Skills</strong>:
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</div>
+<div>
+💻 <strong>Experience</strong>:
+<img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
+<div>
+💡 <strong>Knowledge</strong>:
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C/C++">
+</div>
+<div>
+🌐 <strong>Website</strong>: <a href="https://eduardo.ix.tc" alt="My website">eduardo.ix.tc</a>
+</div>
+<div>
+👥 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/eduapps/" alt="My website">/in/eduapps</a>
+</div>
+<div>
+🎸 <strong>Interests</strong>: Contributing to open source, exploring new technologies and playing guitar.
+</div>
+ 
+---
 
-- **PHP**: I'm experienced with PHP development and technologies like Composer and Zend/Laminas
--  **JavaScript/TypeScript**: I have a strong understanding of web development and have worked with both front-end and back-end technologies such as React, Node.js, and Express.
--  **Java**: I have skills in developing Java applications, both desktop and mobile.
--  **C/C++**: I'm still learning C/C++ but I already enjoy working on low-level programming projects.
--  **Linux**: I'm comfortable using and working with Linux-based systems, and I'm always looking for ways to improve Linux's accessibility through software development.
+Let's collaborate and make the world a better place, one line of code at a time!
 
-In my free time, I love contributing to open-source projects and exploring new technologies. When I'm not coding, you can usually find me playing guitar, playing video games, or spending time with friends and family.
-
-## Get in Touch
-If you're interested in collaborating or want to learn more about me, please don't hesitate to reach out! You can connect with me via:
-
-- [My Website](https://eduardo.ix.tc)
-- [LinkedIn](https://www.linkedin.com/in/eduapps/)
-
-I'm always open to new opportunities and excited to meet new people in the tech community!
-
-**But please note that I am not interested in any requests that involve creating malware or any other unethical or illegal activities.**
+> ⚠️ *Please note that I am not interested in any requests involving malware or unethical/illegal activities.*

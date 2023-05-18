@@ -41,4 +41,4 @@ Do you need a website or something to be made? **[Reach me out](https://eduardo.
 
 Let's collaborate and make the world a better place, one line of code at a time!
 
-> ⚠️ *Please note that I am not interested in any requests involving malware or unethical/illegal activities.*
+> ⚠️ *Please note that I am not interested in any requests involving unethical or illegal activities.*

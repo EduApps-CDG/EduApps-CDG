@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/EduApps-CDG/EduApps-CDG/main/img1.png" align="right" width="400">
 
-I'm a passionate software engineering student with expertise in PHP, TypeScript, and Linux. I'm dedicated to open source projects and making a positive impact in the tech community. Let's collaborate on exciting projects and make a difference together!
+I'm a passionate software engineering student with expertise in PHP, TypeScript, and Linux (Actually working on [OpenDX](https://github.com/EduApps-CDG/OpenDX)). I'm dedicated to open source projects and making a positive impact in the tech community. Let's collaborate on exciting projects and make a difference together!
 
 Do you need a website or something to be made? **[Reach me out](https://eduardo.ix.tc)!** 💡
 
